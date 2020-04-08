@@ -2,6 +2,8 @@
 
 绝大多数的 UKUI 项目使用 git 进行代码管理，使用 Github 进行代码的分发与合作开发。为了便于所有人都可以有序的参与 UKUI 的所有项目，我们希望能够约束 UKUI 项目的代码提交记录、冲突合并和 PRs 创建等各种行为。
 
+[TOC]
+
 ## UKUI git 工作流
 
 UKUI 项目使用经典的 Github 工作流，这里仅作简单的描述。更为准确的流程定义可以阅览 [Understanding the Github flow](https://guides.github.com/introduction/flow/index.html) 。

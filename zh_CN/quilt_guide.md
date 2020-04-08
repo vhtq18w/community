@@ -4,6 +4,8 @@ UKUI 的主线测试环境为 Ubuntu/Debian，构建后的软件包通常为 deb
 
 在使用 quilt 时，补丁被以逻辑栈的方式组织在一起。你可以 apply (=push)、un-apply (=pop) 或简单地刷新它们然后再放入栈内。	
 
+[TOC]
+
 ## 前置条件
 
 quilt 只在存在 `.pc` 和 `patched` 的目录正常工作，这通常可以通过 `quilt import some_package.diff.gz` 自动创建。

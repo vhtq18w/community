@@ -1,6 +1,6 @@
----
-title: Pbuilder
----
+# How to use pbuilder
+
+[TOC]
 
 ### Install
 

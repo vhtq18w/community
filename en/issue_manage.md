@@ -1,5 +1,7 @@
 # Issue Manage
 
+[TOC]
+
 ## Roles
 
 In order to better manage issues, we divide participants into these roles:
